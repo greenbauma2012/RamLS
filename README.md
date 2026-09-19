@@ -24,6 +24,7 @@ We're swapping a 1999 Ram 1500 Sport with the 5.9L Magnum Automatic to use an 6.
 - [ ] Oil cooler
 - [ ] 2 front O2 sensors
 - [ ] Wideband gauge
+- [ ] Electronic gas pedal
 
 ## TODO - Work
 
