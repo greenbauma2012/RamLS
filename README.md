@@ -8,7 +8,7 @@ We're swapping a 1999 Ram 1500 Sport with the 5.9L Magnum Automatic to use an 6.
 - [ ] Radiator, Shroud, and Fans
 - [ ] Radiator hoses (1.32 inches, 1.57 inches)
 - [ ] Heater core hoses (0.625 inches, 3/4 inches)
-- [ ] TR6060 transmission
+- [ ] TR6060 transmission (*61A3R T007626)
 - [ ] Driveshaft
 - [ ] Air intake and MAF sensor
 - [ ] Accessory belts
@@ -24,6 +24,7 @@ We're swapping a 1999 Ram 1500 Sport with the 5.9L Magnum Automatic to use an 6.
 - [ ] Oil cooler
 - [ ] 2 front O2 sensors
 - [ ] Wideband gauge
+- [ ] Holley Terminator X Max LS Kit (https://www.holley.com/products/fuel_systems/fuel_injection/terminator_x/terminator_x_and_x_max_ls_kits/terminator_x_max_ls_kits/parts/550-930)
 
 ## TODO - Work
 
