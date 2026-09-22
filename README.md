@@ -50,3 +50,4 @@ We're swapping a 1999 Ram 1500 Sport with the 5.9L Magnum Automatic to use an 6.
 
 ## Reference Links
 - [Fuse Box Diagram](https://www.startmycar.com/us/gmc/yukon/info/fusebox/2002#anchorfusebox2)
+- [LQ4 Camshaft - Richard Holder Performance](https://richardholdenerperformance.com/products/low-buck-truck-copy?variant=50681413238997&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gad_source=1&gad_campaignid=23876157599&gbraid=0AAAABDv55wpcYD3JSDDgBqGpREA-dVhel)
