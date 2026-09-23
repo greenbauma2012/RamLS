@@ -12,30 +12,32 @@ We're swapping a 1999 Ram 1500 Sport with the 5.9L Magnum Automatic to use an 6.
 - [ ] Radiator (with oil cooler provision), Shroud, and Fans (42" x 21")
 - [ ] Radiator hoses (1.32 inches, 1.57 inches)
 - [ ] Heater core hoses (0.625 inches, 3/4 inches)
-- [ ] TR6060 transmission
+- [x] TR6060 transmission
 - [ ] Driveshaft (gonna need a slip yoke)
-- [ ] Air intake and MAF sensor
+- [ ] Air intake 
+- [x] MAF sensor
 - [ ] Accessory belts
 - [ ] Power Steering pressure lines (Consider buying a hydraulic crimper to make lines)
 - [ ] Clutch pedal
-- [ ] Clutch master
-- [ ] Clutch Slave
-- [ ] Throw out bearing
-- [ ] Pilot Bearing for the flywheel
+- [x] Clutch master
+- [x] Clutch Slave
+- [x] Throw out bearing
+- [x] Pilot Bearing for the flywheel
 - [ ] Clutch Line
 - [ ] Bellhousing bolts
 - [ ] 3 wire oil pressure sensor
-- [ ] Dip Stick
-- [ ] Starter
-- [ ] Plug wires and Metal Insulators
+- [x] Dip Stick
+- [x] Starter
+- [x] Plug wires and Metal Insulators
 - [ ] Break in oil and oil change stuff
-- [ ] Oil Cooler (Make sure we have connection to the block)
+- [x] Oil Cooler (Make sure we have connection to the block)
+- [ ] Oil Cooler Lines
 - [ ] Oil temp sensor gauge
 - [ ] 2 front O2 sensors
 - [ ] Wideband gauge
 - [ ] Transmission cooler and lines
 - [ ] Mid shifter for the TR6060
-- [ ] Transmission Mount for a Camaro
+- [x] Transmission Mount for a Camaro
 
 ## TODO - Work
 
@@ -50,3 +52,5 @@ We're swapping a 1999 Ram 1500 Sport with the 5.9L Magnum Automatic to use an 6.
 
 ## Reference Links
 - [Fuse Box Diagram](https://www.startmycar.com/us/gmc/yukon/info/fusebox/2002#anchorfusebox2)
+
+- 
