@@ -18,13 +18,13 @@ We're swapping a 1999 Ram 1500 Sport with the 5.9L Magnum Automatic to use an 6.
 - [x] MAF sensor
 - [ ] Accessory belts
 - [ ] Power Steering pressure lines (Consider buying a hydraulic crimper to make lines)
-- [ ] Clutch pedal
+- [x] Clutch pedal
 - [x] Clutch master
 - [x] Clutch Slave
 - [x] Throw out bearing
 - [x] Pilot Bearing for the flywheel
 - [ ] Clutch Line
-- [ ] Bellhousing bolts
+- [x] Bellhousing bolts
 - [ ] 3 wire oil pressure sensor
 - [x] Dip Stick
 - [x] Starter
