@@ -9,15 +9,15 @@ We're swapping a 1999 Ram 1500 Sport with the 5.9L Magnum Automatic to use an 6.
 
 ## TODO - Parts to Buy
 
-- [ ] Radiator (with oil cooler provision), Shroud, and Fans (42" x 21")
-- [ ] Radiator hoses (1.32 inches, 1.57 inches)
+- [x] Radiator (with oil cooler provision), Shroud, and Fans (42" x 21")
+- [x] Radiator hoses (1.32 inches, 1.57 inches)
 - [ ] Heater core hoses (0.625 inches, 3/4 inches)
 - [x] TR6060 transmission
 - [ ] Driveshaft (gonna need a slip yoke)
 - [x] Air intake 
 - [x] MAF sensor
-- [ ] Accessory belts
-- [ ] Power Steering pressure lines (Consider buying a hydraulic crimp-er to make lines)
+- [x] Accessory belts
+- [x] Power Steering pressure lines (Consider buying a hydraulic crimp-er to make lines)
 - [x] Clutch pedal
 - [x] Clutch master
 - [x] Clutch Slave
@@ -25,16 +25,16 @@ We're swapping a 1999 Ram 1500 Sport with the 5.9L Magnum Automatic to use an 6.
 - [x] Pilot Bearing for the flywheel
 - [x] Clutch Line
 - [x] Bellhousing bolts
-- [ ] 3 wire oil pressure sensor
+- [x] 3 wire oil pressure sensor
 - [x] Dip Stick
 - [x] Starter
 - [x] Plug wires and Metal Insulators
 - [x] Break in oil and oil change stuff
 - [x] Oil Cooler (Make sure we have connection to the block)
-- [ ] Oil Cooler Lines
+- [x] Oil Cooler Lines
 - [ ] Oil temp sensor gauge
 - [ ] Wideband gauge
-- [ ] Transmission cooler and lines
+- [x] Transmission cooler and lines
 - [x] Mid shifter for the TR6060
 - [x] Transmission Mount for a Camaro
 
